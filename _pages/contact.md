@@ -4,7 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
-
+501-509, 5/F, Building 17W, Hong Kong Science Park, <br>
+Pak Shek Kok, New Territories, Hong Kong<br>
+Email: lipingtang [at] link.cuhk.edu.cn
