@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[A General Recipe for Likelihood-free Bayesian Optimization](http://lantaoyu.com/publications/LFBO)</b> <br> 
+<b>[Grounded Dialogue Generation with Cross-encoding Re-ranker, Grounding Span Prediction, and Passage Dropout](https://aclanthology.org/2022.dialdoc-1.13/)</b> <br> 
 Jiaming Song<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Willie Neiswanger, Stefano Ermon.
 <i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b><span style="color:red">(Long Oral, Top 2.2%)</span></b>
 
