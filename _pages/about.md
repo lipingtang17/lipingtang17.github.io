@@ -13,10 +13,9 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Research Assistant 
-<!-- * in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Google Scholar Profile](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic inference, as well as their applications in generative modeling, sequential decision making under uncertainty, multi-task and meta-learning, and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). -->
+* I am a Research Assistant at Centre for Perceptual and Interactive Intelligence (CPII), Hong Kong, advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/).
+* My research interests lie in the general area of Natural Language Processing, particularly in cross-lingual NLP tasks, information-seeking dialog systems, and controllable text generation.
+* I obtained my Mphil Degree in [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), advised by Prof. [Tom Luo](https://sse.cuhk.edu.cn/en/faculty/luozhiquan). I received my Bachelor’s Degree in [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/index.htm). During my undergraduate life, I studied in [National Chung Cheng University](https://www.ccu.edu.tw/eng/), Taiwan, as a visiting student.
 
 # Education Experience
 
