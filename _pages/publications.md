@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[Grounded Dialogue Generation with Cross-encoding Re-ranker, Grounding Span Prediction, and Passage Dropout](https://aclanthology.org/2022.dialdoc-1.13/)</b> <br> 
 Kun Li, Tianhua Zhang, <b>Liping Tang</b>, Junan Li, Hongyuan Lu, Xixin Wu, Helen Meng. 
-<i>The Second DialDoc Workshop on Document-grounded Dialogue and Conversational Question Answering</i>. <b>ACL 2022</b>.
+<i>The Second DialDoc Workshop on Document-grounded Dialogue and Conversational Question Answering</i>. ACL 2022.
 
 <!-- <b>[GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation](http://lantaoyu.com/publications/GeoDiff)</b> <br> 
 Minkai Xu, <b>Lantao Yu</b>, Yang Song, Chence Shi, Stefano Ermon, Jian Tang.
