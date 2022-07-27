@@ -8,7 +8,7 @@ author_profile: true
 Kun Li, Tianhua Zhang, <b>Liping Tang</b>, Junan Li, Hongyuan Lu, Xixin Wu, Helen Meng. 
 <i>The Second DialDoc Workshop on Document-grounded Dialogue and Conversational Question Answering</i>. <b>ACL 2022</b>.
 
-<b>[GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation](http://lantaoyu.com/publications/GeoDiff)</b> <br> 
+<!-- <b>[GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation](http://lantaoyu.com/publications/GeoDiff)</b> <br> 
 Minkai Xu, <b>Lantao Yu</b>, Yang Song, Chence Shi, Stefano Ermon, Jian Tang.
 <i>The Tenth International Conference on Learning Representations</i>. <b>ICLR 2022</b>. <b><span style="color:red">(Oral Presentation)</span></b>
 
@@ -16,4 +16,4 @@ Minkai Xu, <b>Lantao Yu</b>, Yang Song, Chence Shi, Stefano Ermon, Jian Tang.
 <br>
 <b>[A Unified Framework for Multi-distribution Density Ratio Estimation](http://lantaoyu.com/publications/MultiDRE)</b> <br>
 <b>Lantao Yu</b>, Yujia Jin, Stefano Ermon.
-<i>Preprint. arXiv:2112.03440</i>
+<i>Preprint. arXiv:2112.03440</i> -->
