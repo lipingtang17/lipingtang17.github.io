@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[Robust Unsupervised Cross-Lingual Word Embedding using Domain Flow Interpolation](https://arxiv.org/abs/2210.03319)</b> <br> 
 <b>Liping Tang</b>, Zhen Li, Zhiquan Luo, Helen Meng. 
-<i>preprint</i>.
+<i>arXiv e-prints, paper arXiv: 2210.03319</i>.
 
 <br>
 <b>[Grounded Dialogue Generation with Cross-encoding Re-ranker, Grounding Span Prediction, and Passage Dropout](https://aclanthology.org/2022.dialdoc-1.13/)</b> <br> 
