@@ -13,9 +13,9 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Research Assistant at Centre for Perceptual and Interactive Intelligence (CPII), Hong Kong, advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/).
+* I am currently a Research Assistant at Centre for Perceptual and Interactive Intelligence (CPII), Hong Kong, advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/).
 * My research interests lie in the general area of Natural Language Processing, particularly in cross-lingual NLP tasks, information-seeking dialog systems, and controllable text generation.
-* I obtained my Mphil Degree in [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), advised by Prof. [Tom Luo](https://sse.cuhk.edu.cn/en/faculty/luozhiquan). I received my Bachelor’s Degree in [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/index.htm). During my undergraduate life, I studied in [National Chung Cheng University](https://www.ccu.edu.tw/eng/), Taiwan, as a visiting student.
+* I obtained my Mphil Degree from [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), advised by Prof. [Tom Luo](https://sse.cuhk.edu.cn/en/faculty/luozhiquan). I received my Bachelor’s Degree in Yingcai Honors College at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/index.htm). During my undergraduate life, I studied in [National Chung Cheng University](https://www.ccu.edu.tw/eng/), Taiwan, as a visiting student.
 
 <!-- # Education Experience -->
 
